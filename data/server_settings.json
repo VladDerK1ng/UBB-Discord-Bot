@@ -1,0 +1,12 @@
+{
+    "1471526020115988595": {
+        "prefix": "!",
+        "welcome_enabled": false,
+        "welcome_message": "Bine ai venit pe server!",
+        "welcome_channel": null,
+        "log_channel": null,
+        "auto_role": 1471543521071599832,
+        "moderation_enabled": true,
+        "language": "ro"
+    }
+}

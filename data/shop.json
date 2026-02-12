@@ -1,0 +1,32 @@
+{
+    "1": {
+        "name": "Premium Badge",
+        "price": 500,
+        "emoji": "\u2728",
+        "type": "badge"
+    },
+    "2": {
+        "name": "Nickname Color",
+        "price": 300,
+        "emoji": "\ud83c\udfa8",
+        "type": "color"
+    },
+    "3": {
+        "name": "Custom Prefix",
+        "price": 1000,
+        "emoji": "\ud83d\udcdd",
+        "type": "prefix"
+    },
+    "4": {
+        "name": "Secret Role",
+        "price": 2000,
+        "emoji": "\ud83d\udd10",
+        "type": "role"
+    },
+    "5": {
+        "name": "Bot Response",
+        "price": 750,
+        "emoji": "\ud83e\udd16",
+        "type": "feature"
+    }
+}
