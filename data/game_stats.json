@@ -1,0 +1,19 @@
+{
+    "1069682075730464838": {
+        "blackjack": {
+            "wins": 0,
+            "losses": 0,
+            "total": 0
+        },
+        "slots": {
+            "wins": 4,
+            "losses": 8,
+            "total": 12
+        },
+        "hangman": {
+            "wins": 0,
+            "losses": 0,
+            "total": 0
+        }
+    }
+}
